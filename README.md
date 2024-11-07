@@ -1,7 +1,7 @@
 
 <p align="center">
   <a>
-    <h1 align="center">Mental Health - Team Vinci Code</h1>
+    <h1 align="center">Mind Mend</h1>
     <p align="center">A Depression Detection WebApp using <a href="https://scikit-learn.org/stable/">Sklearn</a> and <a href="https://flask.palletsprojects.com/en/2.0.x/">Flask</a></p>
   </a>
 </p>
