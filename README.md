@@ -34,11 +34,11 @@ To create an informative AI-based tool that should be able to give alerts and id
   </a>
 </p>
 
-![App Screenshot](Screenshots/Firebase.png)
+![App Screenshot](Firebase.png)
 
 > Based on your Answers, it will show the extent of your depression. 
 
-![App Screenshot](Screenshots/Questions.png)
+![App Screenshot](Questions.png)
 
 
 # Documentation
